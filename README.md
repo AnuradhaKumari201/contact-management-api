@@ -8,8 +8,8 @@
 |-------------|---------|
 | Maven       | 4.0.0   |
 | Java        | 1.8      |
-| Spring Boot | 2.6.7   |
-| RabbitMQ    | 3.9.16  |
+| Spring Boot | 2.7.12  |
+
 
 # *API are secured by a API key*
  * username - apiKey
